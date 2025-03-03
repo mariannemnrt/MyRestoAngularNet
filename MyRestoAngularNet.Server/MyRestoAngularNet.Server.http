@@ -1,0 +1,6 @@
+@MyRestoAngularNet.Server_HostAddress = http://localhost:5042
+
+GET {{MyRestoAngularNet.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

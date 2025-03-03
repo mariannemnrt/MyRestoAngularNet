@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:60152",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\maria\\source\\repos\\MyRestoAngularNet\\MyRestoAngularNet.Server\\..\\myrestoangularnet.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
